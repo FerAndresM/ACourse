@@ -36,7 +36,7 @@ public class FibonacciUI {
 					continue;
 				}
 				result = Fibonacci.calculate(input);
-				System.out.println("Fibonacci result is: " + result);
+				System.out.println("Fibonacci result is : " + result);
 			}
 		}
 		System.out.println("Exiting");
