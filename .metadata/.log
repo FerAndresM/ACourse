@@ -3903,3 +3903,12 @@ Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to tra
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-01-16 23:02:08.706
 !MESSAGE The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.0.4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-01-16 23:07:19.802
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-01-16 23:07:19.802
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-01-16 23:07:19.818
+!MESSAGE The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.0.4 is missing, no dependency information available
