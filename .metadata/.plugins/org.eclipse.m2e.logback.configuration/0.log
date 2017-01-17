@@ -38,3 +38,12 @@
 2017-01-16 17:03:43,585 [Worker-17] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
 2017-01-16 17:04:16,063 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
 2017-01-16 17:04:16,063 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-01-16 17:05:12,914 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-01-16 17:05:13,384 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-16 17:05:13,928 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CI_Fibonacci:CI_Fibonacci:0.0.1-SNAPSHOT @ D:\Users\204069337\Documents\ACE\Material\16 Continuous Integration\Homework\Workspace\Fibonacci\pom.xml.
+2017-01-16 17:05:14,148 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-01-16 17:51:30,337 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-01-16 17:56:56,397 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CI_Fibonacci:CI_Fibonacci:0.0.1-SNAPSHOT @ D:\Users\204069337\Documents\ACE\Material\16 Continuous Integration\Homework\Workspace\Fibonacci\pom.xml.
+2017-01-16 17:58:55,445 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Fibonacci:Fibonacci:0.0.1-SNAPSHOT @ D:\Users\204069337\Documents\ACE\Material\16 Continuous Integration\Homework\Workspace\Fibonacci\pom.xml.
+2017-01-16 18:01:37,648 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CI_Fibonacci:CI_Fibonacci:0.0.1-SNAPSHOT @ D:\Users\204069337\Documents\ACE\Material\16 Continuous Integration\Homework\Workspace\Fibonacci\pom.xml.
+2017-01-16 18:01:44,873 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CI_Fibonacci:CI_Fibonacci:0.0.1-SNAPSHOT @ D:\Users\204069337\Documents\ACE\Material\16 Continuous Integration\Homework\Workspace\Fibonacci\pom.xml.
