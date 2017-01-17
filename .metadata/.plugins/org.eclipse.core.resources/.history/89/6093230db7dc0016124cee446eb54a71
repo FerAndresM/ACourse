@@ -67,20 +67,7 @@
 <threshold>Low</threshold>
 <effort>Max</effort>
 <xmlOutput>true</xmlOutput>
-<findbugsXmlOutputDirectory>${project.build.directory}/findbugs</findbugsXmlOutputDirectory>
 </configuration>238
-<executions>
-                <!--
-                    Ensures that FindBugs inspects source code when project is compiled.
-                -->
-                <execution>
-                    <id>analyze-compile</id>
-                    <phase>compile</phase>
-                    <goals>
-                        <goal>check</goal>
-                    </goals>
-                </execution>
-            </executions>
 </plugin>
 </reportPlugins>
 </configuration>
